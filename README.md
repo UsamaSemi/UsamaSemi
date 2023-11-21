@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UsamaSemi
-- 👀 I’m interested in Web developing 
+- 👀 I’m interested in Front End Developer
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate with software company 
 - 📫 How to reach me +923000742726
